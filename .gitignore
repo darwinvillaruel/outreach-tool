@@ -1,5 +1,6 @@
-/node_modules
+
 .envnode_modules/
 .env
 dist/
+node_modules
 node_modules
