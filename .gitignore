@@ -2,3 +2,4 @@
 .envnode_modules/
 .env
 dist/
+node_modules
