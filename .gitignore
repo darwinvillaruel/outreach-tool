@@ -1,6 +1,4 @@
-
 .envnode_modules/
 .env
 dist/
-node_modules
-node_modules
+node_modules/
